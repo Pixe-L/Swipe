@@ -55,6 +55,9 @@ footer {
     align-content: center;
 
     & button {
+        background: url('../assets/icons.webp') no-repeat;
+        background-position: 0px 0px;
+        background-size: 160px;
         height: 30px;
         width: 30px;
         border-radius: 50%;
